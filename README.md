@@ -8,6 +8,4 @@ We welcome you to contributing to this repository!
 
 2. **Clone your Fork**: Clone the forked repository to your local development environment.
 
-   ```sh
-   git clone https://github.com/your-username/python-algorithms.git
-   ```
+3. **Programming Language to be used**: Use Javascript only.
